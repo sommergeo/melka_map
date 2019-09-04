@@ -1,7 +1,7 @@
 # melka_map
 
 Geomorphological map of Melka Kunture to be published in Journal of Maps (under review).
-![Screenshot of the map](/img/map_screenshot_2019-09-04.PNG)
+![Screenshot of the map](/img/thunderbird_screenshot.PNG)
 
 map_screenshot_2019-09-04.PNG
 
