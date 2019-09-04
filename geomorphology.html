@@ -47,8 +47,7 @@
         }).fitBounds([[8.7065,38.6929],[8.7699,38.673365]]).setView([8.7298, 38.5996],14);
 		
         var hash = new L.Hash(map);
-        map.attributionControl.addAttribution('<a href="https:www.roceeh.net" target="_blank">ROCEEH</a>');
-        var bounds_group = new L.featureGroup([]);
+        map.attributionControl.addAttribution('<a href="https:www.roceeh.net" target="_blank">ROCEEH</a> | <a href="https://github.com/sommergeo/melka_map" target="_blank">Git</a>');
 
 		var basemap1 = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
 		maxZoom: 16,
@@ -247,7 +246,8 @@
                 uppercase: true,
                 transparent: true,
                 continuousWorld : true,
-                opacity: 1.0
+                opacity: 1.0,
+				attribution: '<a href="https://www.tandfonline.com/doi/full/10.1080/17445647.2012.680779">Geology by Salvini 2012</a>'
             });
         //map.addLayer(geology);	
 		
