@@ -1,10 +1,10 @@
-# melka_map
+# Geomorphological map of Melka Kunture (Ethiopia)
 
 Geomorphological map of Melka Kunture to be published in Journal of Maps (under review).
 
 ![Screenshot of the map](/img/thunderbird_screenshot.png)
 
-##Links
+## Links
 The map is available at 
 * <a href="http://www.roceeh.net/ethiopia_geomorphological_map" target="_blank">roceeh.net</a> `http://www.roceeh.net/ethiopia_geomorphological_map`
 * <a href="http://gdi.geographie.uni-tuebingen.de/melka/geomorphology.html" target="_blank">gdi.geographie.uni-tuebingen.de</a> `http://gdi.geographie.uni-tuebingen.de/melka/geomorphology.html`
