@@ -13,6 +13,7 @@ The map is available at
 ## Notes
 * Layer styles for QGIS are available [here](layer_styles)
 * Original geology published by <a href="https://www.tandfonline.com/doi/full/10.1080/17445647.2012.680779" target="_blank">Salvini et al. 2012</a>
-* The all WMS layers can be accessed through `http://134.2.216.61/cgi-bin/qgis_mapserv.fcgi?MAP=/home/user/data/melka/melka_2019.qgs`
+* The vector-based WMS layers can be accessed through `http://134.2.216.61/cgi-bin/qgis_mapserv.fcgi?MAP=/home/user/data/melka/melka_2019.qgs`
+* The raster-based WMS layers can be accessed through `http://134.2.216.52:8080/geoserver-roceeh/melka/wms`
 
 Provided by <a href="http://www.roceeh.net/home/" target="_blank">ROCEEH</a>
