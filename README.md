@@ -1,6 +1,6 @@
 # Geomorphological map of Melka Kunture (Ethiopia)
 
-Geomorphological map of Melka Kunture to be published in Journal of Maps (under review).
+A geomorphological map of Melka Kunture to be published in Journal of Maps (under review). This repo contains the Web Map created with <a href="https://leafletjs.com" target="_blank">Leaflet</a> and WMS provided by <a href="https://http://geoserver.org" target="_blank">GeoServer</a> and <a href="https://http://qgis.org" target="_blank">QGIS Server</a>
 
 ![Screenshot of the map](/img/thunderbird_screenshot.png)
 
